@@ -1,0 +1,3 @@
+hello, my name is arushi yadav.
+we are going to access this file using python ,
+with different file commands or functions.Hey there
