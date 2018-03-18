@@ -1,0 +1,12 @@
+n = "ex.txt"
+txt = open(n,'r+')
+t = txt.read()
+print(t)
+line = input("write something")
+txt.write(line)
+txt.close()
+j = open(n)
+print("\n")
+print(j.read())
+l = len(str(j))
+print("length of the file in bytes is",l)
